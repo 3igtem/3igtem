@@ -1,5 +1,5 @@
 # 👋 Welcome to My GitHub!  
-
+<!---
 Hello and welcome to my GitHub! 🎉  
 
 This year, **2025**, I’ve decided to get back into using GitHub and will try my best to update my projects regularly.  
